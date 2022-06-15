@@ -1,0 +1,8 @@
+C:\Users\Owner\repos\csStaticExercise\csStaticExercise\bin\Debug\csStaticExercise.exe.config
+C:\Users\Owner\repos\csStaticExercise\csStaticExercise\bin\Debug\csStaticExercise.exe
+C:\Users\Owner\repos\csStaticExercise\csStaticExercise\bin\Debug\csStaticExercise.pdb
+C:\Users\Owner\repos\csStaticExercise\csStaticExercise\obj\Debug\csStaticExercise.csproj.AssemblyReference.cache
+C:\Users\Owner\repos\csStaticExercise\csStaticExercise\obj\Debug\csStaticExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\repos\csStaticExercise\csStaticExercise\obj\Debug\csStaticExercise.csproj.CoreCompileInputs.cache
+C:\Users\Owner\repos\csStaticExercise\csStaticExercise\obj\Debug\csStaticExercise.exe
+C:\Users\Owner\repos\csStaticExercise\csStaticExercise\obj\Debug\csStaticExercise.pdb
